@@ -62,7 +62,7 @@
     "grunt-shell": "^1.1.1",
     "http-proxy": "^1.13.2",
     "imports-loader": "^0.6.5",
-    "jquery": "^2.2.0",
+    "jquery": "^3.0.0",
     "jsondiffpatch": "^0.1.41",
     "less": "^2.3.1",
     "less-loader": "^2.2.3",
