@@ -60,7 +60,7 @@
     "grunt-init": "~0.2.0",
     "grunt-md5": "^0.1.11",
     "grunt-shell": "^1.1.1",
-    "http-proxy": "^1.13.2",
+    "http-proxy": "^1.15.0",
     "imports-loader": "^0.6.5",
     "jquery": "^2.2.0",
     "jsondiffpatch": "^0.1.41",
