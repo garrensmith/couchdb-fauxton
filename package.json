@@ -90,7 +90,7 @@
     "visualizeRevTree": "git+https://github.com/neojski/visualizeRevTree.git#gh-pages",
     "velocity-react": "^1.1.4",
     "webpack": "^1.12.12",
-    "webpack-dev-server": "^1.14.1",
+    "webpack-dev-server": "^1.16.2",
     "zeroclipboard": "^2.2.0"
   },
   "scripts": {
