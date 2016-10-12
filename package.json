@@ -25,7 +25,7 @@
     "sinon": "git+https://github.com/sinonjs/sinon.git"
   },
   "dependencies": {
-    "async": "~0.2.6",
+    "async": "~2.1.1",
     "babel": "^6.3.26",
     "babel-cli": "^6.4.5",
     "babel-core": "^6.4.5",
