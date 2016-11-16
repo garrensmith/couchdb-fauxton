@@ -70,7 +70,7 @@
     "jsondiffpatch": "^0.1.41",
     "less": "^2.3.1",
     "less-loader": "^2.2.3",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.2",
     "mkdirp": "^0.5.1",
     "moment": "^2.8.4",
     "nano": "~5.12.0",
