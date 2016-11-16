@@ -76,7 +76,7 @@
     "nano": "~5.12.0",
     "optimist": "^0.6.1",
     "pouchdb": "^5.3.1",
-    "react": "~15.0.1",
+    "react": "~15.4.0",
     "react-addons-css-transition-group": "~15.0.1",
     "react-bootstrap": "^0.28.5",
     "react-dom": "~15.0.1",
