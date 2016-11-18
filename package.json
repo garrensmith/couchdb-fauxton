@@ -81,7 +81,7 @@
     "react-bootstrap": "^0.28.5",
     "react-dom": "~15.0.1",
     "react-select": "1.0.0-rc.2",
-    "request": "^2.54.0",
+    "request": "^2.79.0",
     "semver": "^5.1.0",
     "send": "^0.13.1",
     "style-loader": "^0.13.1",
