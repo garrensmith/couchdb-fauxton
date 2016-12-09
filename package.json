@@ -46,7 +46,7 @@
     "couchapp": "~0.11.0",
     "css-loader": "^0.26.0",
     "d3": "^3.4.11",
-    "eslint": "^3.10.0",
+    "eslint": "^3.12.0",
     "eslint-loader": "^1.3.0",
     "eslint-plugin-react": "^6.7.1",
     "exports-loader": "^0.6.2",
