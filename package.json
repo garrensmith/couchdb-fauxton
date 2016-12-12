@@ -96,7 +96,7 @@
     "visualizeRevTree": "git+https://github.com/neojski/visualizeRevTree.git#gh-pages",
     "webpack": "^1.12.12",
     "webpack-dev-server": "^1.14.1",
-    "zeroclipboard": "^2.2.0"
+    "zeroclipboard": "^2.3.0"
   },
   "scripts": {
     "stylecheck": "eslint --ext=js,jsx .",
