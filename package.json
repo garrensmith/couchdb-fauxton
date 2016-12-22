@@ -16,7 +16,7 @@
     ]
   },
   "devDependencies": {
-    "enzyme": "^2.4.1",
+    "enzyme": "^2.7.0",
     "es5-shim": "4.5.4",
     "mocha": "~3.1.2",
     "mocha-loader": "^1.0.0",
