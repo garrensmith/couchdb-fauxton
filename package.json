@@ -51,7 +51,7 @@
     "eslint-plugin-react": "^6.7.1",
     "exports-loader": "^0.6.2",
     "expose-loader": "^0.7.1",
-    "express": "^4.13.4",
+    "express": "^4.14.1",
     "file-loader": "^0.8.5",
     "flux": "^3.1.0",
     "grunt": "~0.4.1",
